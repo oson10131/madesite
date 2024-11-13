@@ -1,0 +1,45 @@
+h2{
+    text-align: center;
+    margin-bottom:10px;
+    color: #000000
+}
+hr{
+    border:none;
+    border-top:2px solid rgb(255, 255, 255)
+}
+#all{
+    display: flex;
+    justify-content: center;
+}
+#all1{
+    display: flex;
+    justify-content: center;
+}
+
+#Py{
+    width: 600px;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 20px;
+}
+#C{
+    width: 600px;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 20px;
+}
+#Cplus{
+    width: 600px;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 20px;
+}
+#Java{
+    width: 600px;
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 20px;
+}
+body{
+    background: rgb(228, 182, 182)
+}
